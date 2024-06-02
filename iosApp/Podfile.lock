@@ -1,0 +1,16 @@
+PODS:
+  - sharedBevanSpike (1.0)
+
+DEPENDENCIES:
+  - sharedBevanSpike (from `../shared`)
+
+EXTERNAL SOURCES:
+  sharedBevanSpike:
+    :path: "../shared"
+
+SPEC CHECKSUMS:
+  sharedBevanSpike: 817da1328b83c315381cf08e208281610bca0328
+
+PODFILE CHECKSUM: 60e34143545fb79883313774152aa4c9939c85fd
+
+COCOAPODS: 1.15.2

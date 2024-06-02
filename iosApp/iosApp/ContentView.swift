@@ -1,5 +1,5 @@
 import SwiftUI
-import Shared
+import sharedBevanSpike
 
 struct ContentView: View {
     @ObservedObject private(set) var viewModel: ViewModel
