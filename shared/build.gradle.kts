@@ -37,12 +37,12 @@ kotlin {
 
         // Optional properties
         // Configure the Pod name here instead of changing the Gradle project name
-        name = "MyCocoaPod"
+        name = "sharedBevanSpike"
 
         framework {
             // Required properties
             // Framework name configuration. Use this property instead of deprecated 'frameworkName'
-            baseName = "MyFramework"
+            baseName = "sharedBevanSpike"
 
             // Optional properties
             // Specify the framework linking type. It's dynamic by default.
